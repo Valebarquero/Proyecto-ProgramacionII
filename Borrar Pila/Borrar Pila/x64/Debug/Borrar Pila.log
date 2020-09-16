@@ -1,0 +1,14 @@
+﻿  Borrar Pila.cpp
+C:\Users\Dell\OneDrive - Universidad Nacional de Costa Rica\LLave\UNA\2020\II SEMESTRE\Programación II\Trabajos Gregorio\Ejemplos\Borrar Pila\Borrar Pila\Pila.cpp(27,12): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\Dell\OneDrive - Universidad Nacional de Costa Rica\LLave\UNA\2020\II SEMESTRE\Programación II\Trabajos Gregorio\Ejemplos\Borrar Pila\Borrar Pila\Pila.cpp(22): message : al compilar la función del miembro clase plantilla "T Pila<T>::top(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Dell\OneDrive - Universidad Nacional de Costa Rica\LLave\UNA\2020\II SEMESTRE\Programación II\Trabajos Gregorio\Ejemplos\Borrar Pila\Borrar Pila\Borrar Pila.cpp(20): message : Vea la referencia a la creación de una instancia de la función plantilla "T Pila<T>::top(void)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\Dell\OneDrive - Universidad Nacional de Costa Rica\LLave\UNA\2020\II SEMESTRE\Programación II\Trabajos Gregorio\Ejemplos\Borrar Pila\Borrar Pila\Borrar Pila.cpp(14): message : Vea la referencia a la creación de una instancia de clase plantilla "Pila<int>" que se está compilando
+  Borrar Pila.vcxproj -> C:\Users\Dell\OneDrive - Universidad Nacional de Costa Rica\LLave\UNA\2020\II SEMESTRE\Programación II\Trabajos Gregorio\Ejemplos\Borrar Pila\x64\Debug\Borrar Pila.exe
