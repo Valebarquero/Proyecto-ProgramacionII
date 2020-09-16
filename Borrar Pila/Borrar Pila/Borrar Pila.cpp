@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+    //Hola este es nuevo
     try {
         Pila<string> strPila;
         strPila.push("amigo");
@@ -43,6 +44,7 @@ int main()
             cerr << "Excepcion de la pila,no se puede ejecutar TOP con la pila vacia" << endl;
         }
     }
+    //Fin
     return 0;
 }
 
